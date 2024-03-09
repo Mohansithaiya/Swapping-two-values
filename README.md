@@ -25,7 +25,7 @@ a,b=b,a
 print("Swapped values are:",a,b)
 ```
 
-##Output:
+## Output:
 
 ![Screenshot 2024-03-09 092021](https://github.com/Mohansithaiya/Swapping-two-values/assets/154211682/375a541b-21bb-46bc-8b59-faf2e80757a9)
 
