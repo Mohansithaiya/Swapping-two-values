@@ -21,12 +21,11 @@ Print both the values it would be interchanged
 End the program
 
 ## PROGRAM:
-/*
+```python
 python program for swapping of two values
 DEVELOPED BY: MOHAN.S
 REGISTER NO: 212223240094
-*/
-```python
+
 a=input()
 b=input()
 a,b=b,a
