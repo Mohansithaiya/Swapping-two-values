@@ -1,4 +1,5 @@
-# Swapping-two-values
+# DATE:
+# EX.NO.01 Swapping-two-values
 ## AIM:
 To write a python program for swapping of two values
 
@@ -26,15 +27,17 @@ python program for swapping of two values
 DEVELOPED BY: MOHAN.S
 REGISTER NO: 212223240094
 
-a=input()
-b=input()
-a,b=b,a
-print("Swapped values are:",a,b)
+a=int(input())
+b=int(input())
+c=a
+a=b
+b=c
+print('Swapped values are: {} {}'.format(a,b))
 ```
 
 ## Output:
 
-![alt text](<Screenshot 2024-04-08 174700.png>)
+![alt text](<Screenshot 2024-08-25 185614.png>)
 
 
 ## RESULT:
